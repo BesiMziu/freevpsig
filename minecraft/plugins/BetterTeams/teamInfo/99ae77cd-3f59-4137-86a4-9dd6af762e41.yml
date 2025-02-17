@@ -1,0 +1,17 @@
+name: solo
+description: ''
+open: false
+pvp: false
+home: ''
+color: '6'
+chests: []
+players:
+- b53e09fd-1985-33eb-8935-bd066dddd373,DEFAULT
+- 0ce6fe56-1c19-3bdd-a502-cc6c687d49ef,OWNER
+- aa7b67ed-f5e1-3969-9481-9ac23b9f8637,DEFAULT
+level: 1
+tag: dolo
+warps:
+- spawner;survival:584.9085815274866:-34.0:718.3000000119209:-91.71216:6.183379
+- portal;survival:452.63363964794473:70.1767029951154:798.9464360094145:39.0235:7.5030355
+score: 0

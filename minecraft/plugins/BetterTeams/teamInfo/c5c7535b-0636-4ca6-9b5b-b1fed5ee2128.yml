@@ -1,0 +1,15 @@
+name: TheHunters
+description: ''
+open: false
+pvp: false
+home: survival:41.30000001192093:49.0:5.580604446806912:20.249994:80.7001
+color: '6'
+chests: []
+players:
+- a7369df8-6531-337e-b487-aca6c630d8b6,DEFAULT
+- 1819a855-4df7-390e-96e1-03b86648109f,OWNER
+level: 1
+tag: ''
+warps:
+- mines;survival:53.33497839730156:13.0:-114.6594239840629:148.34961:8.249996
+score: 1

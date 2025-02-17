@@ -1,0 +1,14 @@
+name: whatsafather
+description: ''
+open: false
+pvp: false
+home: ''
+color: '4'
+chests: []
+players:
+- 152fdc5b-6377-372c-966f-87312f4744c5,OWNER
+level: 1
+tag: ''
+warps:
+- spawn;survival:-23.435948771830976:61.0:8.208880045207415:85.0448:19.592453
+score: 0

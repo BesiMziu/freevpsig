@@ -1,0 +1,12 @@
+name: AXIS
+description: ''
+open: false
+pvp: false
+home: ''
+color: '6'
+chests: []
+players:
+- 5335467e-53a9-3a48-a39f-64b874ab8549,OWNER
+- cba75cf8-a8dc-30b7-baa2-caa4f8b4ca98,DEFAULT
+level: 1
+tag: ''

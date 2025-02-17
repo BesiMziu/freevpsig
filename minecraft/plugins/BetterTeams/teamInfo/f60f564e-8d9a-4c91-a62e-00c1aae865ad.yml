@@ -1,0 +1,148 @@
+name: mky
+description: ''
+open: false
+pvp: false
+home: ''
+color: '6'
+chests: []
+players:
+- ed0907dd-b80b-3903-8bfa-7f2157e919f9,OWNER
+level: 1
+tag: ''
+echest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DARK_OAK_LOG
+    amount: 6
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CRAFTING_TABLE
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: OAK_LOG
+    amount: 3
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: OAK_SIGN
+    amount: 2
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CHICKEN
+    amount: 2
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DARK_OAK_PLANKS
+    amount: 11
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GUNPOWDER
+    amount: 2
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: SUGAR_CANE
+    amount: 24
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: COBBLESTONE
+    amount: 64
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: WHITE_WOOL
+    amount: 3
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: LEATHER
+    amount: 2
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ARROW
+    amount: 3
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: SMOKER
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CALCITE
+    amount: 64
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: STRING
+    amount: 3
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: RAW_GOLD
+    amount: 15
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: BONE
+    amount: 5
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: TRIPWIRE_HOOK
+    amount: 2
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GLASS
+    amount: 17
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: OAK_TRAPDOOR
+    amount: 3
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: LEVER
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CHEST
+    amount: 12
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: FURNACE
+    amount: 3
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: HOPPER
+    amount: 4
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: BARREL
+    amount: 2
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: FLINT_AND_STEEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 10
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CALCITE
+    amount: 64
+score: 1

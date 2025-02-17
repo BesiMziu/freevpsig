@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "hub",
+      "x": 2.5,
+      "y": -2.0,
+      "z": 12.5,
+      "yaw": 179.6999,
+      "pitch": 5.099984
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&aCLICK-TO-JOIN",
+      "&eSurvival"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "mvtp world",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  }
+]

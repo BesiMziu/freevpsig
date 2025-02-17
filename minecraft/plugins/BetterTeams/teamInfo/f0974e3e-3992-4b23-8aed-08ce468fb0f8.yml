@@ -1,0 +1,58 @@
+name: Sigmas
+description: ''
+open: false
+pvp: false
+home: ''
+color: '6'
+chests: []
+players:
+- 95adbc4c-b893-3bac-8c69-fe61a0835b78,DEFAULT
+- 4f485c49-9af7-3484-8bf8-e97385116c06,DEFAULT
+- c080a63d-b775-3947-8181-038b76d12b86,DEFAULT
+- 9fb07258-7fc4-3fef-938f-13acccfdd3b1,OWNER
+- d5bcb3ce-5280-3065-a08c-4da739540fbc,DEFAULT
+level: 1
+tag: ''
+echest:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERITE_INGOT
+    amount: 8
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: FLINT
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ENCHANTED_GOLDEN_APPLE
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERITE_SCRAP
+    amount: 11
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:mending: 1
+      Damage: 99
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1479
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: RAW_IRON
+    amount: 15
+score: 0
